@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-13T11:12:11 PST" name="Default suite" finished-at="2023-03-13T11:12:11 PST" duration-ms="51">
+    <groups>
+    </groups>
+    <test started-at="2023-03-13T11:12:11 PST" name="Default test" finished-at="2023-03-13T11:12:11 PST" duration-ms="51">
+      <class name="code">
+        <test-method signature="gitBye()[pri:0, instance:code@1677d1]" started-at="2023-03-13T11:12:11 PST" name="gitBye" finished-at="2023-03-13T11:12:11 PST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gitBye -->
+        <test-method signature="gitHello()[pri:0, instance:code@1677d1]" started-at="2023-03-13T11:12:11 PST" name="gitHello" finished-at="2023-03-13T11:12:11 PST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gitHello -->
+      </class> <!-- code -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
