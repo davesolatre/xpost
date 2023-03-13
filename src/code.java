@@ -15,6 +15,7 @@ public void gitBye() {
 	
 
 	public static void main(String[] srgs) {
+		System.out.println("Hello Love Good Bye");
 
 	}
 }
