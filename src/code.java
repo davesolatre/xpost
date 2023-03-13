@@ -11,6 +11,8 @@ public void gitHello() {
 @Test
 public void gitBye() {
 	System.out.println("BYers");
+	System.out.println("GoodBye");
+	System.out.println("HUHUHUHU");
 }
 	
 
